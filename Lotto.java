@@ -13,7 +13,7 @@ public class Lotto {
 		int random;
 		int i = 1;
 		random = (int) (Math.random() * 49) + 1;
-		System.out.println("Ball " + i + random);
+		System.out.println("Ball " + i + " = " + random);
 	}
 
 	// Test
