@@ -3,8 +3,8 @@
  * Write a description of class Lotto here. Lotto generates a lucky dip and
  * displays the lucky dip
  * 
- * @author (your name)
- * @version (a version number or a date)
+ * @author Angelica Beristain
+ * @version 15 March 2021
  */
 public class Lotto {
 
